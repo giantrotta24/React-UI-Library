@@ -5,7 +5,7 @@ Built with [create-react-app](https://github.com/facebook/create-react-app), [st
 ## Table of Contents
 
 - [Motivation](#Motivation)
-- [Code style](#Code style)
+- [Code style](#Code-style)
 - [Development Guide](#development-guide)
 
 ## Motivation
